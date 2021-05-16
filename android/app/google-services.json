@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228642342961",
+    "project_id": "react-native-sia-uty",
+    "storage_bucket": "react-native-sia-uty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228642342961:android:4accd8346b1d344345ed10",
+        "android_client_info": {
+          "package_name": "com.sia_uty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228642342961-8rq78ssn0g98dc4v342f45131f1ufse6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKoFu5xZbgA_LxNMztYXi8-Fj1kvRJk0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228642342961-8rq78ssn0g98dc4v342f45131f1ufse6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
